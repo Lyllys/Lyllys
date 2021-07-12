@@ -1,4 +1,5 @@
-### Hi there 👋
+![Olá, Mundo!](https://user-images.githubusercontent.com/76455440/125333592-ccd67f00-e320-11eb-99d1-5f2ae8d398ca.png)
+
 
 <!--
 **Lyllys/Lyllys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
