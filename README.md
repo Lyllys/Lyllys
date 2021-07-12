@@ -1,4 +1,5 @@
 
+
 [![Olá, Mundo! (1)](https://user-images.githubusercontent.com/76455440/125345760-512ffe80-e32f-11eb-8d5b-08e8dc069776.png)](https://github.com/Lyllys?tab=repositories)
 
 
@@ -16,7 +17,7 @@ Olá 👋, eu sou a Lyllys.
 
 ---
 
-[![Design sem nome](https://user-images.githubusercontent.com/76455440/125347157-f8f9fc00-e330-11eb-925e-80cf3ef6bd4f.png)](https://www.linkedin.com/in/lyllysgalhardo)
+[![linkedinIcon](https://user-images.githubusercontent.com/76455440/125347376-39f21080-e331-11eb-8e91-6ad8e5623453.png)](https://www.linkedin.com/in/lyllysgalhardo)
 
 
 
