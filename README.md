@@ -11,7 +11,7 @@ Olá 👋, eu sou a Lyllys.
 
 💕 Frontend lover. 
 
-📩 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem : lyllysgalhardo@gmail.com
+📫 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem : lyllysgalhardo@gmail.com
 
 
 🚀💻 Tecnologias, Linguagens, Frameworks que possuo um pouco de conhecimento:
