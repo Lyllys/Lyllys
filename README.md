@@ -16,7 +16,7 @@ Olá 👋, eu sou a Lyllys.
 
 ---
 
-[![linkedinIcon](https://user-images.githubusercontent.com/76455440/125340062-63f30500-e328-11eb-94fa-6125522a8137.png)](https://www.linkedin.com/in/lyllysgalhardo)
+[![Design sem nome](https://user-images.githubusercontent.com/76455440/125347157-f8f9fc00-e330-11eb-925e-80cf3ef6bd4f.png)](https://www.linkedin.com/in/lyllysgalhardo)
 
 
 
