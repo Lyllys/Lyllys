@@ -1,6 +1,4 @@
-
-[![Olá, Mundo!](https://user-images.githubusercontent.com/76455440/125341203-c00a5900-e329-11eb-9fac-4758df87991d.png)](https://github.com/Lyllys?tab=repositories)
-
+[![Olá, Mundo!](https://user-images.githubusercontent.com/76455440/125343412-69524e80-e32c-11eb-851b-32f207d4ebde.png)](https://github.com/Lyllys?tab=repositories)
 
 
 Olá 👋, eu sou a Lyllys. 
