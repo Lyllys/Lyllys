@@ -5,9 +5,7 @@
 
 Olá 👋, eu sou a Lyllys. 
 
-💻 Atualmente sou residente em TIC/Software no Serratec. 
-
-🥰 Encatanda pelo universo da programação. 
+💻 Encatanda pelo universo da programação. 
 
 💕 Frontend lover. 
 
