@@ -1,4 +1,6 @@
-[![hello-world  (2)](https://github.com/Lyllys/Lyllys/assets/76455440/edf6070e-22d8-4cb5-834c-a57e3d265b02)](https://github.com/Lyllys?tab=repositories)
+
+[![hello-world ](https://github.com/Lyllys/Lyllys/assets/76455440/43192b17-b307-4b66-a449-28c27f73ef75)](https://github.com/Lyllys?tab=repositories)
+
 
 Olá 👋, eu sou a Lyllys. 
 
